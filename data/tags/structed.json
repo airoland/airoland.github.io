@@ -1,0 +1,97 @@
+[
+    {
+        "name": "Design",
+        "data": [
+            {
+                "name": "SaaS",
+                "used": 0
+            },
+            {
+                "name": "微服务",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Algorithm",
+        "data": [
+            {
+                "name": "推荐算法",
+                "used": 0
+            },
+            {
+                "name": "机器学习",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Back-End",
+        "data": [
+            {
+                "name": "Spring Cloud",
+                "used": 0
+            },
+            {
+                "name": "Spring Boot",
+                "used": 0
+            },
+            {
+                "name": "NodeJS",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Front-End",
+        "data": [
+            {
+                "name": "Vue.js",
+                "used": 0
+            },
+            {
+                "name": "JavaScript",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Big-Data",
+        "data": [
+            {
+                "name": "Hadoop",
+                "used": 0
+            },
+            {
+                "name": "R",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Operation",
+        "data": [
+            {
+                "name": "Docker",
+                "used": 0
+            },
+            {
+                "name": "ELK",
+                "used": 0
+            },
+            {
+                "name": "DevOps",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Personal",
+        "data": [
+            {
+                "name": "随笔",
+                "used": 1
+            }
+        ]
+    }
+]
