@@ -9,6 +9,10 @@
             {
                 "name": "微服务",
                 "used": 0
+            },
+            {
+                "name": "云计算",
+                "used": 0
             }
         ]
     },
@@ -21,6 +25,14 @@
             },
             {
                 "name": "机器学习",
+                "used": 0
+            },
+            {
+                "name": "搜索排序",
+                "used": 0
+            },
+            {
+                "name": "AI",
                 "used": 0
             }
         ]
@@ -39,6 +51,14 @@
             {
                 "name": "NodeJS",
                 "used": 0
+            },
+            {
+                "name": "Spring Data",
+                "used": 0
+            },
+            {
+                "name": "Spring All",
+                "used": 0
             }
         ]
     },
@@ -52,6 +72,18 @@
             {
                 "name": "JavaScript",
                 "used": 0
+            },
+            {
+                "name": "React",
+                "used": 0
+            },
+            {
+                "name": "Angular",
+                "used": 0
+            },
+            {
+                "name": "CSS",
+                "used": 0
             }
         ]
     },
@@ -59,11 +91,81 @@
         "name": "Big-Data",
         "data": [
             {
+                "name": "Caffeine",
+                "used": 0
+            },
+            {
+                "name": "Pregel",
+                "used": 0
+            },
+            {
+                "name": "Dremel",
+                "used": 0
+            },
+            {
+                "name": "Spanner",
+                "used": 0
+            },
+            {
                 "name": "Hadoop",
                 "used": 0
             },
             {
+                "name": "Spark",
+                "used": 0
+            },
+            {
+                "name": "HBase",
+                "used": 0
+            },
+            {
+                "name": "Hive",
+                "used": 0
+            },
+            {
+                "name": "Pig",
+                "used": 0
+            },
+            {
                 "name": "R",
+                "used": 0
+            },
+            {
+                "name": "Sqoop",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Hybrid",
+        "data": [
+            {
+                "name": "Weex",
+                "used": 0
+            },
+            {
+                "name": "React Native",
+                "used": 0
+            },
+            {
+                "name": "Ionic",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Cloud-Service",
+        "data": [
+            {
+                "name": "Azure",
+                "used": 0
+            },
+            {
+                "name": "AWS",
+                "used": 0
+            },
+            {
+                "name": "GAE",
                 "used": 0
             }
         ]
@@ -81,6 +183,23 @@
             },
             {
                 "name": "DevOps",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "X-Reality",
+        "data": [
+            {
+                "name": "AR",
+                "used": 0
+            },
+            {
+                "name": "VR",
+                "used": 0
+            },
+            {
+                "name": "MR",
                 "used": 0
             }
         ]
