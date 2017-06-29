@@ -59,6 +59,14 @@
             {
                 "name": "Spring All",
                 "used": 0
+            },
+            {
+                "name": "Hibernate",
+                "used": 0
+            },
+            {
+                "name": "Mybatis",
+                "used": 0
             }
         ]
     },
@@ -67,7 +75,7 @@
         "data": [
             {
                 "name": "Vue.js",
-                "used": 1
+                "used": 2
             },
             {
                 "name": "JavaScript",
@@ -83,6 +91,23 @@
             },
             {
                 "name": "CSS",
+                "used": 0
+            }
+        ]
+    },
+    {
+        "name": "Database",
+        "data": [
+            {
+                "name": "MySQL",
+                "used": 0
+            },
+            {
+                "name": "Redis",
+                "used": 0
+            },
+            {
+                "name": "MongoDB",
                 "used": 0
             }
         ]
