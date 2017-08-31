@@ -32,7 +32,15 @@
                 "used": 0
             },
             {
-                "name": "AI",
+                "name": "A.I.",
+                "used": 0
+            },
+            {
+                "name": "深度学习",
+                "used": 0
+            },
+            {
+                "name": "神经网络",
                 "used": 0
             }
         ]
@@ -42,7 +50,7 @@
         "data": [
             {
                 "name": "Spring Cloud",
-                "used": 1
+                "used": 2
             },
             {
                 "name": "Spring Boot",
@@ -75,7 +83,7 @@
         "data": [
             {
                 "name": "Vue.js",
-                "used": 2
+                "used": 3
             },
             {
                 "name": "JavaScript",
@@ -104,6 +112,10 @@
             },
             {
                 "name": "Redis",
+                "used": 0
+            },
+            {
+                "name": "ElasticSearch",
                 "used": 0
             },
             {
@@ -162,11 +174,11 @@
         ]
     },
     {
-        "name": "Hybrid",
+        "name": "APP",
         "data": [
             {
                 "name": "Weex",
-                "used": 0
+                "used": 1
             },
             {
                 "name": "React Native",
@@ -175,6 +187,22 @@
             {
                 "name": "Ionic",
                 "used": 0
+            },
+            {
+                "name": "Hybrid",
+                "used": 0
+            },
+            {
+                "name": "Swift",
+                "used": 0
+            },
+            {
+                "name": "Android",
+                "used": 0
+            },
+            {
+                "name": "Objective-C",
+                "used": 1
             }
         ]
     },
@@ -200,7 +228,7 @@
         "data": [
             {
                 "name": "Docker",
-                "used": 0
+                "used": 1
             },
             {
                 "name": "ELK",
@@ -215,6 +243,10 @@
     {
         "name": "X-Reality",
         "data": [
+            {
+                "name": "HoloLens",
+                "used": 0
+            },
             {
                 "name": "AR",
                 "used": 0
