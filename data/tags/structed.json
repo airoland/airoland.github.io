@@ -4,7 +4,7 @@
         "data": [
             {
                 "name": "SaaS",
-                "used": 0
+                "used": 1
             },
             {
                 "name": "微服务",
@@ -70,7 +70,7 @@
             },
             {
                 "name": "Hibernate",
-                "used": 0
+                "used": 1
             },
             {
                 "name": "Mybatis",
@@ -108,7 +108,7 @@
         "data": [
             {
                 "name": "MySQL",
-                "used": 0
+                "used": 1
             },
             {
                 "name": "Redis",
